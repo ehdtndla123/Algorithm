@@ -1,4 +1,4 @@
-#감시 피하기
+#감시 피하기 bfs
 from itertools import combinations
 n=int(input())
 graph=[]
