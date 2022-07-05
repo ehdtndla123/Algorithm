@@ -1,4 +1,4 @@
-#특정 거리의 도시 찾기
+#특정 거리의 도시 찾기 bfs
 from collections import deque
 import sys
 input=sys.stdin.readline
