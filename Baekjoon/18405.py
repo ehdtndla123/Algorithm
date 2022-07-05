@@ -1,4 +1,4 @@
-#경쟁적 전염
+#경쟁적 전염 bfs
 import sys
 input = sys.stdin.readline
 from collections import deque
